@@ -5,6 +5,7 @@
 ![Build Status](https://github.com/yajra/laravel-datatables-html/workflows/tests/badge.svg)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/yajra/laravel-datatables-html/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/yajra/laravel-datatables-html/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/yajra/laravel-datatables-html.svg)](https://packagist.org/packages/yajra/laravel-datatables-html)
+[![Imports](https://github.com/yajra/laravel-datatables-html/actions/workflows/imports.yml/badge.svg?branch=master)](https://github.com/yajra/laravel-datatables-html/actions/workflows/imports.yml)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://packagist.org/packages/yajra/laravel-datatables-html)
 
 This package is a plugin of [Laravel DataTables](https://github.com/yajra/laravel-datatables) for generating dataTables script using PHP.
